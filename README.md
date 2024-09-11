@@ -5,35 +5,13 @@ Welcome to the "webdev projects" repository! This collection of projects is desi
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Projects](#projects)
-3. [Getting Started](#getting-started)
-4. [Contributing](#contributing)
-5. [License](#license)
+2. [Getting Started](#getting-started)
+3. [Contributing](#contributing)
+4. [License](#license)
 
 ## Introduction
 
 This repository contains a variety of web development projects suitable for beginners and students. Each project focuses on different aspects of web development, allowing learners to practice their HTML, CSS, and JavaScript skills in practical, real-world scenarios.
-
-## Projects
-
-Here's a list of the projects included in this repository:
-
-1. **Project 1**: [Project Name]
-   - Description: Brief description of the project
-   - Skills: HTML, CSS, JavaScript
-   - [Link to project folder]
-
-2. **Project 2**: [Project Name]
-   - Description: Brief description of the project
-   - Skills: HTML, CSS, JavaScript
-   - [Link to project folder]
-
-3. **Project 3**: [Project Name]
-   - Description: Brief description of the project
-   - Skills: HTML, CSS, JavaScript
-   - [Link to project folder]
-
-(Add more projects as you create them)
 
 ## Getting Started
 
@@ -60,10 +38,6 @@ Contributions to this project are welcome! If you have a project idea or improve
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
-Happy coding! If you have any questions or suggestions, feel free to open an issue or reach out to [Your Name/Username].
